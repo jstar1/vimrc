@@ -8,3 +8,4 @@
  autocmd FileType make setlocal tabstop=8 softtabstop=8 noexpandtab
  filetype on
  syntax on
+ filetype plugin indent on
